@@ -1,0 +1,3 @@
+1. Rapoport, T.A.; Li, L.; Park, E. Structural and Mechanistic Insights into Protein Translocation. Annu. Rev. Cell Dev. Biol. 2017, 33, 369–390. [CrossRef] [PubMed]  
+2. Herrmann, J.M.; Malkus, P.; Schekman, R. Out of the ER—Outfitters, escorts and guides. Trends Cell Biol. 1999, 9, 5–7. [CrossRef]  
+3. Rabouille, C. Pathways of Unconventional Protein Secretion. Trends Cell Biol. 2017, 27, 230–240. [CrossRef] [PubMed] 
